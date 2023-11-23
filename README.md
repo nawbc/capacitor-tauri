@@ -1,3 +1,8 @@
+<img width="100%" src="https://img.shields.io/twitter/follow/deskbtm?style=social"/>
+
+Forked [capacitor-community/tauri](https://github.com/capacitor-community/tauri/)
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/20338451/129942856-bac5a858-a846-4a9f-b10e-10c423917471.png" width="560" /><br />
 </p>
