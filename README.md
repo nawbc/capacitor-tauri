@@ -1,4 +1,6 @@
+<a href="https://twitter.com/intent/follow?screen_name=deskbtm" target="__blank">
 <img width="100%" src="https://img.shields.io/twitter/follow/deskbtm?style=social"/>
+</a>
 
 Forked [capacitor-community/tauri](https://github.com/capacitor-community/tauri/)
 
