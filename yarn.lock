@@ -1339,11 +1339,10 @@ __metadata:
     chalk: "npm:~4.1.2"
     conventional-changelog-cli: "npm:~4.1.0"
     conventional-changelog-conventionalcommits: "npm:~7.0.2"
-    detect-package-manager: "npm:^3.0.1"
     electron-is-dev: "npm:~2.0.0"
     esbuild: "npm:~0.19.7"
-    eslint: "npm:^8.40.0"
-    eslint-config-prettier: "npm:^8.8.0"
+    eslint: "npm:^8.54.0"
+    eslint-config-prettier: "npm:^9.0.0"
     eslint-plugin-import: "npm:^2.27.5"
     events: "npm:~3.3.0"
     execa: "npm:^8.0.1"
@@ -1971,15 +1970,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"detect-package-manager@npm:^3.0.1":
-  version: 3.0.1
-  resolution: "detect-package-manager@npm:3.0.1"
-  dependencies:
-    execa: "npm:^5.1.1"
-  checksum: 3a203ba269183baea9969b89f18dd93a9bb451a51280b39ea2ee392f44bada0f79b676425fcd1e7fca6b8c8f03a048a5cc1d3b39bb9c0ebd0300337ae00a0b14
-  languageName: node
-  linkType: hard
-
 "dir-glob@npm:^3.0.1":
   version: 3.0.1
   resolution: "dir-glob@npm:3.0.1"
@@ -2293,14 +2283,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.8.0":
-  version: 8.10.0
-  resolution: "eslint-config-prettier@npm:8.10.0"
+"eslint-config-prettier@npm:^9.0.0":
+  version: 9.0.0
+  resolution: "eslint-config-prettier@npm:9.0.0"
   peerDependencies:
     eslint: ">=7.0.0"
   bin:
     eslint-config-prettier: bin/cli.js
-  checksum: 0a51ab1417cbf80fabcf7a406960a142663539c8140fdb0a187b78f3d708b9d137a62a4bc4e689150e290b667750ddabd1740a516623b0cb4adb6cc1962cfe2c
+  checksum: 276b0b5b5b19066962a9ff3a16a553bdad28e1c0a2ea33a1d75d65c0428bb7b37f6e85ac111ebefcc9bdefb544385856dbe6eaeda5279c639e5549c113d27dda
   languageName: node
   linkType: hard
 
@@ -2371,7 +2361,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8.40.0":
+"eslint@npm:^8.54.0":
   version: 8.54.0
   resolution: "eslint@npm:8.54.0"
   dependencies:
@@ -2469,7 +2459,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"execa@npm:^5.0.0, execa@npm:^5.1.1":
+"execa@npm:^5.0.0":
   version: 5.1.1
   resolution: "execa@npm:5.1.1"
   dependencies:
